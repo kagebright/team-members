@@ -109,3 +109,9 @@ body {
     border-radius: 50%;
     object-fit: cover;
 }
+
+.status {
+    border-radius: 8px;
+    padding: 8px;
+    font-weight: 700;
+}
